@@ -1,0 +1,30 @@
+/*
+Theme Name:   	Rascots WP
+Theme URI:    	http://rascots.com/
+Author:       	Travis Holt
+Author URI:     https://github.com/vulcanads/rascots-theme
+Template:     	storefront
+Description:  	This sexy, spirit animal like beast of a child theme of WooThemes StoreFron is made just for the Rascots, LLC brand and their subsidiaries.  All code that is custom for the badass mask makers brand and company is created by Travis Holt at Vulcan Ad Agency in Seattle.  get a badass theme or advertising from Vulcan to get your hands on something this epic for your business.
+Version:      	1.0.0
+License:      	GNU General Public License v2 or later
+License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  	storefront
+Tags:         	black, white, light, two-columns, left-sidebar, right-sidebar, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready
+
+Code Licenses: This theme, like WordPress, is licensed under the GPL. Storefront is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.  Customized by Travis Holt and License to utilize the custom version is protected under copyright laws which only allow usage of this child theme with written permission from the Rascots, LLC company.  No use of the Rascots (tm), the Rascots logo, icons, or it's brand identity of any facet are allowed without a license agreement and written poermission from Rascot, LLC.
+Reset License: Resetting and rebuilding styles have been helped along thanks to the fine work of Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html, along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+FontAwesome: SIL Open Font License - http://scripts.sil.org/OFL Images License: GNU General Public License v2 or later
+
+
+*/
+
+.topper{
+padding:50px;
+	position:absolute;
+	clear:both;
+	height:auto;
+	min-height:150px;
+	width:100%;
+	color:#fff;
+	}
+
