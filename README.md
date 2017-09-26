@@ -1,3 +1,4 @@
+[![Waffle.io - Issues in progress](https://badge.waffle.io/evolvr1/Rascots.png?label=in%20progress&title=In%20Progress)](https://waffle.io/evolvr1/Rascots?utm_source=badge)
 # Storefront Child Theme
 
 The StoreFront Child Theme is a starter blank child theme for WooThemes StoreFront WooCommerce theme.
